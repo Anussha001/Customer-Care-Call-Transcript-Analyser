@@ -43,7 +43,7 @@ The sentiment analysis is powered by the Groq Chat API, leveraging large languag
 
    ```bash
    git clone https://github.com/Anussha001/Customer-Care-Call-Transcript-Analyser.git
-cd Customer-Care-Call-Transcript-Analyser
+      cd Customer-Care-Call-Transcript-Analyser
    ```
 
 2. **Install dependencies**:
